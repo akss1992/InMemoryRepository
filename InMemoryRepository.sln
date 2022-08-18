@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.25
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InMemoryRepository", "InMemoryRepository\InMemoryRepository.csproj", "{DA95D180-91BB-4D2A-88BC-31A62A2700D2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA95D180-91BB-4D2A-88BC-31A62A2700D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA95D180-91BB-4D2A-88BC-31A62A2700D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA95D180-91BB-4D2A-88BC-31A62A2700D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA95D180-91BB-4D2A-88BC-31A62A2700D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76D50A53-62F6-48FE-AFE8-D5700FD5CDBD}
+	EndGlobalSection
+EndGlobal
